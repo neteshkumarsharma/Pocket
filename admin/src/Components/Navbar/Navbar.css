@@ -1,0 +1,41 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 60px;
+    box-shadow: 0px 1px 3px -2px #000;
+    margin-bottom: 1px;
+    background: white;
+}
+.pocket-logo{
+    display: flex;
+    align-content: center;
+}
+.pocket-logo img{
+    width: 80px;
+    height: 80px;
+}
+.pocket-logo p{
+    font-size: 35px;
+    font-weight: 500;
+}
+.admin-panel{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.admin-panel p{
+    font-size: 15px;
+}
+.nav-proflie{
+    width: 75px;
+}
+@media(max-width: 800px){
+    .navbar{
+        padding: 15px 30px;
+    }
+    .nav-proflie{
+        width: 60px;
+    }
+}
