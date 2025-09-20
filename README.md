@@ -16,6 +16,6 @@ Admin side demo
 * A logged-in user can instantly view all items previously added to their shopping cart.
 
 ### TECHNOLOGY USED :
-* FRONT END : React.JS and CSS.
+* FRONT END : React.JS, CSS and Html.
 * BACK END : Node.JS and Express.JS
 * DATABASE USED : MongoDB
